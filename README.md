@@ -6,7 +6,7 @@ A responsive and modern UI clone of Twitter/X built using **HTML** and **Tailwin
 
 | Old Twitter UI | New X UI |
 |----------------|----------|
-| ![Old UI](twitter%20old%20homepage.png) | ![X UI](x%20homePage.png) |
+| ![Old UI][![twitter-old-homepage.png](https://i.postimg.cc/kM14Nppp/twitter-old-homepage.png)](https://postimg.cc/23Wrr2mQ) | ![X UI][![x-home-Page.png](https://i.postimg.cc/0jFPTLg5/x-home-Page.png)](https://postimg.cc/N263TCfZ) |
 
 ## 🚀 Features
 
