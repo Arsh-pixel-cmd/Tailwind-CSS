@@ -1,6 +1,6 @@
 # 🐦 Twitter/X UI Clone
 
-A responsive and modern UI clone of Twitter/X built using **HTML** and **Tailwind CSS**.
+A  modern UI clone of Twitter/X built using **HTML** and **Tailwind CSS**.
 
 ## 📸 Preview
 
