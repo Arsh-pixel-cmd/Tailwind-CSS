@@ -11,7 +11,6 @@ A  modern UI clone of Twitter/X built using **HTML** and **Tailwind CSS**.
 ## 🚀 Features
 
 - 🔥 Dark mode layout inspired by the current X (Twitter) design
-- 📱 Responsive sidebar navigation (Home, Explore, Notifications, etc.)
 - 📝 Post input section with icons
 - 📊 Trending topics section
 - 🤝 Who to follow panel
